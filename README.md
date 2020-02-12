@@ -1,5 +1,4 @@
 # hello-world
 
-Hi Humans!
-
-Hubot here, i like Node.js and Coffescricpt
+Just another repository
+Hubot here, i like Node,js and Coffee them far superior to Earth tacos.
